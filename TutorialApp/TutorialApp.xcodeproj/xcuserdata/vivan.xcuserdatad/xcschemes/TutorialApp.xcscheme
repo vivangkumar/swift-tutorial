@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "907071B01A138A5C00537E16"
-               BuildableName = "Tip Calculator.app"
-               BlueprintName = "Tip Calculator"
-               ReferencedContainer = "container:Tip Calculator.xcodeproj">
+               BlueprintIdentifier = "90585C9F1A13A482002BB42F"
+               BuildableName = "TutorialApp.app"
+               BlueprintName = "TutorialApp"
+               ReferencedContainer = "container:TutorialApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "907071C51A138A5C00537E16"
-               BuildableName = "Tip CalculatorTests.xctest"
-               BlueprintName = "Tip CalculatorTests"
-               ReferencedContainer = "container:Tip Calculator.xcodeproj">
+               BlueprintIdentifier = "90585CB41A13A482002BB42F"
+               BuildableName = "TutorialAppTests.xctest"
+               BlueprintName = "TutorialAppTests"
+               ReferencedContainer = "container:TutorialApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "907071C51A138A5C00537E16"
-               BuildableName = "Tip CalculatorTests.xctest"
-               BlueprintName = "Tip CalculatorTests"
-               ReferencedContainer = "container:Tip Calculator.xcodeproj">
+               BlueprintIdentifier = "90585CB41A13A482002BB42F"
+               BuildableName = "TutorialAppTests.xctest"
+               BlueprintName = "TutorialAppTests"
+               ReferencedContainer = "container:TutorialApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "907071B01A138A5C00537E16"
-            BuildableName = "Tip Calculator.app"
-            BlueprintName = "Tip Calculator"
-            ReferencedContainer = "container:Tip Calculator.xcodeproj">
+            BlueprintIdentifier = "90585C9F1A13A482002BB42F"
+            BuildableName = "TutorialApp.app"
+            BlueprintName = "TutorialApp"
+            ReferencedContainer = "container:TutorialApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "907071B01A138A5C00537E16"
-            BuildableName = "Tip Calculator.app"
-            BlueprintName = "Tip Calculator"
-            ReferencedContainer = "container:Tip Calculator.xcodeproj">
+            BlueprintIdentifier = "90585C9F1A13A482002BB42F"
+            BuildableName = "TutorialApp.app"
+            BlueprintName = "TutorialApp"
+            ReferencedContainer = "container:TutorialApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "907071B01A138A5C00537E16"
-            BuildableName = "Tip Calculator.app"
-            BlueprintName = "Tip Calculator"
-            ReferencedContainer = "container:Tip Calculator.xcodeproj">
+            BlueprintIdentifier = "90585C9F1A13A482002BB42F"
+            BuildableName = "TutorialApp.app"
+            BlueprintName = "TutorialApp"
+            ReferencedContainer = "container:TutorialApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

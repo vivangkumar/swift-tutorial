@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Tip Calculator
+//  TutorialApp
 //
 //  Created by Vivan Kumar on 12/11/2014.
 //  Copyright (c) 2014 Vivan Kumar. All rights reserved.
